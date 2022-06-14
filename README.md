@@ -1,2 +1,3 @@
 # Mew-clicker
-My prototype of a clicker game
+
+This is a second self-made project. Wasn't refactored yet.
